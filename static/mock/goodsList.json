@@ -1,0 +1,189 @@
+{
+    "list":[
+        {   
+            "id": "1",
+            "name": "商品名称1",
+            "imgurl": [ "./static/1.jpg", "./static/1.jpg", "./static/1.jpg", "./static/1.jpg", "./static/1.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"商品规格1" ,
+                    "price": "15",
+                    "quantity": "3"
+                }
+            ]
+
+        },
+        {
+            "id": "2",
+            "name": "商品名称2",
+            "imgurl": ["./static/2.jpg","./static/2.jpg","./static/2.jpg","./static/2.jpg","./static/2.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"商品规格1" ,
+                    "price": "10",
+                    "quantity": "0"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格2" ,
+                    "price": "38",
+                    "quantity": "1"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格3" ,
+                    "price": "45",
+                    "quantity": "2"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格4" ,
+                    "price": "21",
+                    "quantity": "0"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格5" ,
+                    "price": "96",
+                    "quantity": "4"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "商品名称3",
+            "imgurl": ["./static/3.jpg","./static/3.jpg","./static/3.jpg","./static/3.jpg","./static/3.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"商品规格1" ,
+                    "price": "23",
+                    "quantity": "库6存"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格2" ,
+                    "price": "43",
+                    "quantity": "7"
+                }
+            ]
+        },
+        {   
+            "id": "4",
+            "name": "商品名称4",
+            "imgurl": ["./static/4.jpg","./static/4.jpg","./static/4.jpg","./static/4.jpg","./static/4.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"商品规格1" ,
+                    "price": "45",
+                    "quantity": "4"
+                },
+                {
+                    "nid": "商品库存id",
+                    "spect":"商品规格2" ,
+                    "price": "546",
+                    "quantity": "5"
+                }
+            ]
+
+        },
+        {
+            "id": "5",
+            "name": "商品名称5",
+            "imgurl": ["./static/5.jpg","./static/5.jpg","./static/5.jpg","./static/5.jpg","./static/5.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"商品规格1" ,
+                    "price": "123",
+                    "quantity": "5"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格2" ,
+                    "price": "203",
+                    "quantity": "3"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "商品名称6",
+            "imgurl": ["./static/6.jpg","./static/6.jpg","./static/6.jpg","./static/6.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"商品规格1" ,
+                    "price": "100",
+                    "quantity": "8"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格2" ,
+                    "price": "34",
+                    "quantity": "7"
+                }
+            ]
+        },{   
+            "id": "7",
+            "name": "商品名称7",
+            "imgurl": ["./static/7.jpg","./static/7.jpg","./static/7.jpg","./static/7.jpg","./static/7.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"商品规格1" ,
+                    "price": "435",
+                    "quantity": "5"
+                },
+                {
+                    "nid": "商品库存id",
+                    "spect":"商品规格2" ,
+                    "price": "234",
+                    "quantity": "6"
+                }
+            ]
+
+        },
+        {
+            "id": "8",
+            "name": "商品名称8",
+            "imgurl": ["./static/8.jpg","./static/8.jpg","./static/8.jpg","./static/8.jpg","./static/8.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"商品规格1" ,
+                    "price": "2",
+                    "quantity": "7"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格2" ,
+                    "price": "33",
+                    "quantity": "9"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "商品名称9",
+            "imgurl": ["./static/1.jpg","./static/1.jpg","./static/1.jpg","./static/1.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"商品规格1" ,
+                    "price": "44",
+                    "quantity": "10"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"商品规格2" ,
+                    "price": "22",
+                    "quantity": "6"
+                }
+            ]
+        }
+    ]
+}

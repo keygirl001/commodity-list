@@ -1,0 +1,88 @@
+{   
+    "list": [
+        {
+            "name": "农夫山泉",
+            "price": "1.5",
+            "menu": "142537193210",
+            "number": "3",
+            "allPrice": "4.5",
+            "spect": "食物",
+            "imgurl": "/src/img/1.jpg",
+            "address": 
+                {
+                    "name": "帆帆",
+                    "orderAddress": "南岗区 学府路52号",
+                    "mobile": "15512345678"
+                    
+                }
+            
+        },
+        {
+            "name": "旺旺牛奶",            
+            "price": "8",
+             "menu": "142537193210",
+            "number": "3",
+            "allPrice": "24",
+            "spect": "食物",
+            "imgurl": "/src/img/2.jpg",
+            "address": 
+                {
+                    "name": "月月",
+                    "orderAddress": "南岗区 测绘路01号",
+                    "mobile": "15516866666"                    
+                }
+            
+        },
+        {
+            "name": "威龙",
+            "price": "2",
+             "menu": "142537193210",
+            "number": "4",
+            "allPrice": "8",
+            "spect": "食物",
+            "imgurl": "/src/img/3.jpg",
+            "address": 
+                {
+                    "name": "帆帆",
+                    "orderAddress": "南岗区 学府路52号",
+                    "mobile": "15512345678"
+                    
+                }
+            
+        },
+        {
+            "name": "面包",
+            "price": "4",
+             "menu": "14253719365745",
+            "number": "3",
+            "allPrice": "12",
+            "spect": "食物",
+            "imgurl": "/src/img/4.jpg",
+            "address": 
+                {
+                    "name": "帆帆01",
+                    "orderAddress": "南岗区 学府路52号 和兴路",
+                    "mobile": "15512345678"
+                    
+                }
+            
+        },
+         {
+            "name": "火腿",
+            "price": "2",
+             "menu": "142537193210",
+            "number": "1",
+            "allPrice": "2",
+            "spect": "食物",
+            "imgurl": "/src/img/5.jpg",
+            "address": 
+                {
+                    "name": "帆帆02",
+                    "orderAddress": "南岗区 学府路52号 和兴十一道街", 
+                    "mobile": "15512345328"
+                    
+                }
+            
+        }
+    ]
+}
